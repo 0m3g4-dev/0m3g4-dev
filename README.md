@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0m3g4-dev
+- 👀 I’m interested in Web, Mobile And Python Apps
+- 🌱 I’m currently learning MEAN Stack
+- 💞️ I’m looking to collaborate on any Web And Mobile App.
+- 📫 nquinterorosyarequejocasado@gmail.com
